@@ -7,3 +7,5 @@ BENFITS OF VISION TRANSFORMER:
 	There are a number of benefits to using Vision Transformers for image classification.
 
 	ViTs can learn global features of images. This is because they are able to attend to any part of the image, regardless of its location. This can be helpful for tasks such as object detection and scene understanding.
+
+
