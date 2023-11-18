@@ -6,5 +6,6 @@ BENFITS OF VISION TRANSFORMER:
 	The output of the Transformer encoder is a sequence of vectors. These vectors represent the features of the image. The features are then used to classify the image.
 	There are a number of benefits to using Vision Transformers for image classification.
   ViTs can learn global features of images. This is because they are able to attend to any part of the image, regardless of its location. This can be helpful for tasks such as object detection and scene understanding.
-
->. PPPIP
+  
+GITHUB LINK
+>.https://github.com/JAVASAK/IT_TEAM_A_07
