@@ -8,4 +8,5 @@ BENFITS OF VISION TRANSFORMER:
   ViTs can learn global features of images. This is because they are able to attend to any part of the image, regardless of its location. This can be helpful for tasks such as object detection and scene understanding.
   
 GITHUB LINK
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 >.https://github.com/JAVASAK/IT_TEAM_A_07
